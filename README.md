@@ -1,4 +1,4 @@
-# Words
+# words.text
 
 This is a collection of lists of different types of words in .txt format.
 
