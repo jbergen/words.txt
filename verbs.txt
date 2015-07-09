@@ -12,7 +12,7 @@ analyze
 announce
 annoy
 answer
-apologise
+apologize
 appear
 applaud
 appreciate
@@ -21,7 +21,8 @@ argue
 arrange
 arrest
 arrive
-ask	attach
+ask
+attach
 attack
 attempt
 attend
@@ -92,7 +93,7 @@ close
 coach
 coil
 collect
-colour
+color
 comb
 command
 communicate
@@ -316,7 +317,7 @@ matter
 measure
 meddle
 melt
-memorise
+memorize
 mend
 milk
 mine
@@ -407,15 +408,15 @@ puncture
 punish
 push
 question
-queue	 	 
+queue		
 race
 radiate
 rain
 raise
 reach
-realise
+realize
 receive
-recognise
+recognize
 record
 reduce
 reflect
@@ -593,7 +594,7 @@ unpack
 untidy
 use
 vanish
-visit	 	 
+visit		
 wail
 wait
 walk
@@ -624,8 +625,8 @@ wrap
 wreck
 wrestle
 wriggle
-x-ray	 	 	 
+x-ray			
 yawn
-yell	 	 
+yell		
 zip
 zoom
